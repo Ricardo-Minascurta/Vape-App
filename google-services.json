@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768461409075",
+    "project_id": "vapeapp-29594",
+    "storage_bucket": "vapeapp-29594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768461409075:android:17bee8112bae8c92be4c46",
+        "android_client_info": {
+          "package_name": "com.vapetracker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeX3IcrIcXL3N1JAuL8f0vAuXHvwX4Byk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
